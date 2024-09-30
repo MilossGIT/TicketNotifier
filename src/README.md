@@ -1,4 +1,4 @@
-# Ticket Notification System
+[# Ticket Notification System
 
 This project is an automated ticket availability checker and notifier for the Lutkovno gledališče Ljubljana (Ljubljana Puppet Theatre) website. It scrapes the website for ticket information and sends daily email notifications about available tickets.
 
@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/ticket-notification-system.git
+   git clone https://github.com/MilossGIT/TicketNotifier.git
    cd ticket-notification-system
    ```
 
@@ -95,3 +95,4 @@ If you have any questions or feedback, please contact:
 Your Name - youremail@example.com
 
 Project Link: https://github.com/yourusername/ticket-notification-system
+](https://github.com/MilossGIT/TicketNotifier.git)
